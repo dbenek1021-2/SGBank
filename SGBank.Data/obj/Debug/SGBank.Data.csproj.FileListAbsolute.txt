@@ -1,0 +1,9 @@
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb
