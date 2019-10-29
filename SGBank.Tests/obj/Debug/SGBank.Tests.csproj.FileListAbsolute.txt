@@ -1,0 +1,17 @@
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Users\DaniB\Documents\SoftwareGuild\bitbucket\dani-benek-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.pdb
